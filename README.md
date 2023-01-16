@@ -2,7 +2,7 @@
 Data Streaming project
 # DeepWalk Streaming - SkipGram - HierarchicalSoftmax
 
-An implementation of DeepWalk  and SkipGram models for our Data Streaming Course at Ecole Polytechnique. Project done with Sajjad Mahdivin and Yanis Fellah 
+An implementation of DeepWalk  and SkipGram models for our Data Streaming Course at Ecole Polytechnique. Project done with Sajjad Mahdavi and Yanis Fellah 
 
 Hierarchical Softmax is implemented through building a binary tree (See file: BinaryTree.py). 
 
